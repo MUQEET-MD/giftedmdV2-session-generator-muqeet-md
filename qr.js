@@ -14,16 +14,16 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN GIFTED-MDv2 』*
+║ *『 WOW YOU'VE CHOSEN MUQEET-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@giftedtechnexus_
-║❒ *Owner:* _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ *Repo:* _https://github.com/Giftedmaurice/gifted-mdV2_
-║❒ *WaGroup:* _https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
+║❒ *Ytube:* _youtube.com/@isagitroll_
+║❒ *Owner:* _https://wa.me/923163954173_
+║❒ *Repo:* _https://github.com/muqeet908/MUQEET-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/Lg2UKqmAMe45yVbJyI3DQ2_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb5U0BRBfxo8tkPXkg2v_
 ║❒ *Plugins:* _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
 ╚════════════════════════╝
 
@@ -121,7 +121,7 @@ SESSION-ID ==> ${Scan_Id}
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
 
-    //// MADE WITH GIFTED TECH
+    //// MADE WITH MUQEET ☠️ TECH
 
 });
 
